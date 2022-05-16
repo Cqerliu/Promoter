@@ -4,10 +4,10 @@ Prediction of prokaryotic and eukaryotic promoters based on information-theoreti
 
 In the FeatureCaculate.rar, we give the row code for performing feature analysis.
 
-  -- In code folder, we give the code of feature calculation. the Main.py is the entrance to the main program.
+  -- In code folder, we give the code of feature calculation. The Main.py is the entrance to the main program.
   
   -- The feature folder is the target folder output by the main program after calculating the features.
   
   -- The sequence folder is the folder where the input files are stored. we have given data samples for reference.
 
-In the Data.rar, we give the dataset usd in study.
+In the Data.rar, we give the dataset used in study.
