@@ -1,4 +1,4 @@
-# PromoterPrediction-InformationTheoreticFeatures
+# PromoterIT
 
 Prediction of prokaryotic and eukaryotic promoters based on information-theoretic features
 
